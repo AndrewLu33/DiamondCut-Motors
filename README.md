@@ -1,5 +1,5 @@
 # 🚗 DiamondCut Motors – Luxury Car UI/UX Design  
-## 📝 Artwork / Project Description  
+## 📝 Project Description  
 This project was developed as part of the Human–Computer Interaction Lab course.  
 The goal was to design a **luxury car dealership website** that combines aesthetic appeal with user-friendly interaction.
 
